@@ -9,4 +9,8 @@
 /Users/heartsker/OneDrive/Universiti/HSE-C/HSE_Calculator/main.c
 stdio.h
 -
+stdlib.h
+-
+string.h
+-
 
