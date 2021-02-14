@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// hui
+// test
 char* foo() {
     char *ch;
     ch = malloc(100);
