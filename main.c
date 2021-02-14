@@ -5,6 +5,8 @@
 
 // test proiden
 
+// HACK
+
 char* foo() {
     char *ch;
     ch = malloc(100);
