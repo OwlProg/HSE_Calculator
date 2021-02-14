@@ -1,4 +1,1 @@
-*.*
-! *.c
-! *.h
-! CMakeLists.txt
+*/cmake-build-debug/*
