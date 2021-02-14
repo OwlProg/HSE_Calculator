@@ -1,3 +1,0 @@
-/Users/heartsker/OneDrive/Universiti/HSE-C/HSE_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/heartsker/OneDrive/Universiti/HSE-C/HSE_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/heartsker/OneDrive/Universiti/HSE-C/HSE_Calculator/cmake-build-debug/CMakeFiles/HSE_Calculator.dir
